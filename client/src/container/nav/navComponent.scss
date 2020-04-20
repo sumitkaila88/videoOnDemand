@@ -1,0 +1,21 @@
+.primaryNav {
+  display: flex;
+  li {
+    display: inline-flex;
+    margin: 0 5px;
+    a {
+      padding: 10px 15px;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+      &:hover,
+      &.active {
+        color: #ffffff;
+        background-color: #2e2e2e;
+      }
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}

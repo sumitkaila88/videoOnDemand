@@ -1,0 +1,23 @@
+.modal {
+  text-align: left;
+  padding-bottom: 100px;
+  h2 {
+    font-size: 1.6em;
+    padding: 5px 0;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-align: center;
+  }
+  h4 {
+    margin-bottom: 20px;
+  }
+  span {
+    display: block;
+    margin: 5px 0;
+    strong {
+      font-weight: bold;
+      color: #aaaaaa;
+      padding-right: 5px;
+    }
+  }
+}
