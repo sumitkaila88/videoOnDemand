@@ -14,3 +14,4 @@ Make sure you have node installed
 4. Go to client folder in terminal type npm install and press enter.
 5. verify step in client folder
 6. your default browser should open and run at localhost:3000 automatically(else manually open http://localhost:3000 in new tab)
+7. Make sure both servers are running simuntaneously review the application
